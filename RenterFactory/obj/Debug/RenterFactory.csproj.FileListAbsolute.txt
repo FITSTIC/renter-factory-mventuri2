@@ -1,0 +1,6 @@
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\bin\Debug\RenterFactory.exe.config
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\bin\Debug\RenterFactory.exe
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\bin\Debug\RenterFactory.pdb
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\obj\Debug\RenterFactory.csprojResolveAssemblyReference.cache
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\obj\Debug\RenterFactory.exe
+C:\Users\docenteits\Desktop\renter-factory-mventuri2\RenterFactory\obj\Debug\RenterFactory.pdb
